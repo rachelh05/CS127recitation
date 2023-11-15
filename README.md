@@ -32,6 +32,27 @@ Again, Hells Kitchen utilizes the most number of mean total gallons in compariso
 **Mean Total MMBTU (high)**
 ![Chart_4](image/Mean_Total_MMBTU(high).png)
 
+This chart demonstrates the correlation between BTU in boiler capacity and MMBTU of each neighborhood. Kips Bay has the highest Mean Total MMBTU (high) along with the largest boiler capacity. The data overall amongst the neighborhoods remains relatively similar without any substantial outliers between the data.
+
+**Mean Total MMBTU (low)**
+![Chart_5](image/Mean_Total_MMBTU(low).png)
+
+A similar trend is found in the Mean Total MMBTU low and high, proving that boiler capacity and mean total MMBTU correlate. Essentially, Kips Bay's boilers will produce more heat  than the other neighborhoods and Soho will produce the least. However the difference between Kips Bay and Soho is approximately 2500 which is still relatively comparable.
+
+**Boiler Age Range**
+![Chart_6](image/Boiler_Age_Range.png)
+
+A majority of the boilers are between the range of 21 to 26 years old. The general age range of which they lay is between 16 and 30 which can be used as a benchmark median if a user wanted to interpret the data. However, this brings up the issue that only 13.1% of these boilers would bea part of the NYC DEP Boiler Registration Renewal program. 
+
+**Total Gallons vs Floor**
+![Chart_7](image/TotalGallons_Floor.png)
+
+There is no correlation between the total gallons of fuel used and the number of floors in a building. Looking at the chart, there is no downward or upward trend. This may be attributed to the differing uses of buildings which is independent of the number of floors in a building. In other words, the function of the building determines its dependence on heat in comparison to the number of floors.
+
+**Greener Greater Buildings**
+![Chart_8](image/Green_Greater_Buildings.png)
+
+The greatest number of Greener Greater Buildings is in the Upper East Side. This may be attributed to the fact that the median income of the residents in the Upper East Side is the highest incomparison to the residents of the other neighborhoods. The neighborhoods that were least affected include Soho and Hells Kitchen.
 
 ## Kips Bay Map
 <iframe src="KipsBayMap.html" width="830" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
