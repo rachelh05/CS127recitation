@@ -16,14 +16,17 @@ In Manhattan, there are multiple geographical points where the gas emission is m
 
 **Mean Boiler Capacity**
 ![Chart_1](image/Mean_Boiler_Capacity.png)
+
 Kips Bay has the highest Mean Boiler Capacity which may possibly be attributed to the population density, which is the largest in comparison to the other neighborhoods. Since the number of people per square mile is higher, it makes sense that the boiler capacity would also need to be higher in order to keep the area warm for a larger number of people. This is data after it was filtered as the outliers skewed the data to the point that it made little sense.
 
 **Mean Total Gallons (high)**
 ![Chart_2](image/Mean_Total_Gallons(high).png)
+
 The explanation for this data could be that Hells Kitchen boilers are larger than the ones in the other boroughs. This also disputes the possibility that mean boiler capacity directly correlates with the gallons used in each neighborhood. It is also important to note that the Mean Total Gallons high for Hells Kitchen is significantly larger in comparison to the other neighborhoods.
 
 **Mean Total Gallons (low)**
 ![Chart_3](image/Mean_Total_Gallons(low).png)
+
 Again, Hells Kitchen utilizes the most number of mean total gallons in comparison to the other neighborhoods. It does not change the fact that there is little correlation between Mean Boiler Capacity and Mean Total Gallons used. The amount of mean total gallons used is comparable in Soho, Kips Bay, and Greenwich. However, the Upper East Side and Helsl Kitchen provides a spike in the data. 
 
 **Mean Total MMBTU (high)**
