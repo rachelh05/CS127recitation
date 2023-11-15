@@ -13,7 +13,7 @@ Fuel Oils No.4 and No.6 have caused a substantial impact on the environment. As 
 In Manhattan, there are multiple geographical points where the gas emission is much more concentrated. These properties include NYC City Housing Authorities, Rockefeller University, SL Green Realty Corp, and Jamestown Premier Che. The main contributors to the number of greenhouse gas emissions appear to be large buildings, contributing an average of 38 million metric tons of carbon dioxide per year since 2010. However, over time NYC aims to improve its carbon footprint by passing legislation and transitioning to renewable energy.
 
 ## Summary of HC 7 & 8
-
+![Chart_1](Mean_Boiler_Capacity.png)
 
 ## Kips Bay Map
 <iframe src="KipsBayMap.html" width="830" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
