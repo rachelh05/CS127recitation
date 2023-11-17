@@ -1,4 +1,4 @@
-# Kips Bay
+# Greenwich Village
 
 ## Highlighted Map
 ![Highlighted_map](image/highlight.png)
