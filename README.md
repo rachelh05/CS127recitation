@@ -4,26 +4,26 @@
 ![Highlighted_map](image/highlight.png)
 
 ## Basic Demographics/Statistics
-Population: 2,142 people 
-Population density: 1,456.95 people per square mile
-Median Age: 32.7 years. 
-Gender Ratio: 50% Female and 50% Male.
-Percentage of Population White: 94.3% 
-Native-born percentage: 97.11% 
-Education: 36.94% Bachelor's Degree or higher
-High School dropout rate: 0%
-Speak ONLY English at age of 5: 97.78% 
-Per capita income: $33,503 
-Median household income: $69,875
-Percentage employed: 97.02%
+#### Population: 2,142 people 
+#### Population density: 1,456.95 people per square mile
+#### Median Age: 32.7 years. 
+#### Gender Ratio: 50% Female and 50% Male.
+#### Percentage of Population White: 94.3% 
+#### Native-born percentage: 97.11% 
+#### Education: 36.94% Bachelor's Degree or higher
+#### High School dropout rate: 0%
+#### Speak ONLY English at age of 5: 97.78% 
+#### Per capita income: $33,503 
+#### Median household income: $69,875
+#### Percentage employed: 97.02%
 
-## Summary of HC 3
+## NYC Clean Heat Program (HC 3)
 Fuel Oils No.4 and No.6 have caused a substantial impact on the environment. As a result, NYC has proposed various programs to lessen the stress on the environment including the Clean Heat Program and the DEP Boiler Registration. The Clean Heat Program essentially helps city buildings convert to cleaner heating fuels, encouraging the transition to cleaner burning fuels. The DEP Boiler Registration is a program where any new boiler system registered with NYCDEP is put into a triennial cycle of registration which helps point out boilers that are significantly contributing to pollution. Another possible solution includes a transition into electrification or renewable natural gas. 
 
-## Summary of HC 4
+## NYC Emissions (HC 4)
 In Manhattan, there are multiple geographical points where the gas emission is much more concentrated. These properties include NYC City Housing Authorities, Rockefeller University, SL Green Realty Corp, and Jamestown Premier Che. The main contributors to the number of greenhouse gas emissions appear to be large buildings, contributing an average of 38 million metric tons of carbon dioxide per year since 2010. However, over time NYC aims to improve its carbon footprint by passing legislation and transitioning to renewable energy. For instance, a new law to begin in 2026 states that for new buildings of seven stories or less fossil fuels will not be used in the construction of them.
 
-## Summary of HC 7 & 8
+## Data Exploration and Analysis
 
 **Mean Boiler Capacity**
 ![Chart_1](image/Mean_Boiler_Capacity.png)
