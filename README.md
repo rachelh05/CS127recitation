@@ -65,5 +65,5 @@ There is no correlation between the total gallons of fuel used and the number of
 
 The greatest number of Greener Greater Buildings is in the Upper East Side. This may be attributed to the fact that the median income of the residents in the Upper East Side is the highest incomparison to the residents of the other neighborhoods. The neighborhoods that were least affected include Soho and Hells Kitchen.
 
-## Kips Bay Map
+## Greenwich Village Map
 <iframe src="KipsBayMap.html" width="830" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
