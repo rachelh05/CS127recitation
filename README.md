@@ -38,7 +38,7 @@ The explanation for this data could be that Hells Kitchen boilers are larger tha
 **Mean Total Gallons (low)**
 ![Chart_3](image/Mean_Total_Gallons(low).png)
 
-Again, Hells Kitchen utilizes the most number of mean total gallons in comparison to the other neighborhoods. It does not change the fact that there is little correlation between Mean Boiler Capacity and Mean Total Gallons used. The amount of mean total gallons used is comparable in Soho, Kips Bay, and Greenwich. However, the Upper East Side and Helsl Kitchen provides a spike in the data. 
+Again, Hells Kitchen utilizes the most number of mean total gallons in comparison to the other neighborhoods. It does not change the fact that there is little correlation between Mean Boiler Capacity and Mean Total Gallons used. The amount of mean total gallons used is comparable in Soho, Kips Bay, and Greenwich. However, the Upper East Side and Hells Kitchen provides a spike in the data. 
 
 **Mean Total MMBTU (high)**
 ![Chart_4](image/Mean_Total_MMBTU(high).png)
